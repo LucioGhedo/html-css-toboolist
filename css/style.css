@@ -100,6 +100,9 @@ li {
    border: 2px solid green;
    margin-right: 5px;
    font-size: 15px;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 5px;
 }
 .none {
     color: red;
