@@ -17,3 +17,66 @@ h1 {
     margin: 5px;
 }
 
+.main {
+    background-color: #f6f8f9;
+}
+
+/* MAIN */
+.container {
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 25px;
+    background-color: white;
+}
+
+/* BUTTON */
+.button {
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border-color: #f6f8f9;
+    background-color: white;
+    border:1px;
+    margin-bottom: 10px;
+}
+.blue-button {
+    background-color: #46adf1;
+    color: white;
+    margin-left: 30px;
+    
+}
+.grey-button {
+    color: grey;
+    border: 1px solid #c5cbd0;
+    margin-left: 5px;
+}
+hr {
+    color: #f6f8f9;
+    border-collapse: collapse;
+    border-style: solid;
+}
+.container-2 {
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: white;
+}
+
+li {
+    margin-left: 45px;
+    margin-bottom: 10px;
+    list-style: none;
+}
+
+/* TABELLA */
+.list {
+    font-weight: 800;
+    font-size: 24px;
+}
+.margin {
+    margin-bottom: 50px;
+}
+.check {
+    margin-left: 65px;
+}
