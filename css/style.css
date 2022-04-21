@@ -78,6 +78,7 @@ li {
 }
 .margin {
     margin-bottom: 50px;
+    padding-bottom: 5px;
 }
 .check {
     margin-left: 65px;
@@ -90,6 +91,7 @@ li {
     color: white;
     font-size: 15px;
     margin-left: 5px;
+    font-weight: 100;
 }
 .check-2 {
     color: green;
@@ -116,6 +118,7 @@ li {
     color: white;
     font-size: 15px;
     margin-left: 5px;
+    font-weight: 100;
 }
 .rec {
     background-color: #64c0a9;
@@ -124,6 +127,7 @@ li {
     color: white;
     font-size: 15px;
     margin-left: 5px;
+    font-weight: 100;
 }
 .mobile {
     background-color: #f29e34;
@@ -132,6 +136,7 @@ li {
     color: white;
     font-size: 15px;
     margin-left: 5px;
+    font-weight: 100;
 }
 .web{
     background-color: #d863a1;
@@ -140,6 +145,7 @@ li {
     color: white;
     font-size: 15px;
     margin-left: 5px;
+    font-weight: 100;
 }
 .sales {
     background-color: #b0c927;
@@ -148,4 +154,5 @@ li {
     color: white;
     font-size: 15px;
     margin-left: 5px;
+    font-weight: 100;
 }
