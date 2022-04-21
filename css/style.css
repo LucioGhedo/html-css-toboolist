@@ -96,8 +96,7 @@ li {
 .check-2 {
     color: green;
    border-radius:90% ;
-   width: 5px;
-   height: 5px;
+   padding: 2px;
    border: 2px solid green;
    margin-right: 5px;
    font-size: 15px;
